@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jeffmant/node-typescript-template.git"
+  },
+  "author": "jeffmant <jgsmantovani@gmail.com>",
+  "license": "MIT",
+  "keywords": [ "node" ],
+  "bugs": {
+    "url": "https://github.com/jeffmant/node-typescript-template/issues"
+  },
+  "homepage": "https://github.com/jeffmant/node-typescript-template"
+}
