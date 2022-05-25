@@ -8,9 +8,14 @@
   },
   "author": "jeffmant <jgsmantovani@gmail.com>",
   "license": "MIT",
-  "keywords": [ "node" ],
+  "keywords": [
+    "node"
+  ],
   "bugs": {
     "url": "https://github.com/jeffmant/node-typescript-template/issues"
   },
-  "homepage": "https://github.com/jeffmant/node-typescript-template"
+  "homepage": "https://github.com/jeffmant/node-typescript-template",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
 }
